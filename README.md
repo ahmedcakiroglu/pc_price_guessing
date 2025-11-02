@@ -33,7 +33,7 @@ Our goal was to answer the question: "On this problem, how much better is a comp
 2.  **Run the script:**
     When executed, the script will automatically download the dataset, train the models, and save the result graphs (as `.png` files) into the same folder.
     ```bash
-    python pcfiyat_tahmin.py
+    python pc_price_guess.py
     ```
 
 ## 📊 Results and Conclusion
